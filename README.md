@@ -1,2 +1,2 @@
-# Spring
-It contains basic spring projects for learning.
+# spring
+# It contains basic spring related projects.
