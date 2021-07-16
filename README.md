@@ -1,2 +1,2 @@
-#### spring
-# It contains basic spring related projects.
+# Hi,
+## This repo contains basic spring related projects.
