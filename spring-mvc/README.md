@@ -1,3 +1,3 @@
 
 # Hi, 
-## this repo contains spring mvc projects
+this repo contains spring mvc projects
